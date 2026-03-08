@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password from Settings > Security. Click 'Reset Password', enter your email, and follow the verification link."
+  },
+  {
+    "title": "Update Email Address",
+    "content": "Users can update their email address from Profile Settings. A verification email will be sent to confirm the new email."
+  },
+  {
+    "title": "Delete Account",
+    "content": "Users can permanently delete their account from Settings > Privacy > Delete Account. This action cannot be undone."
+  },
+  {
+    "title": "Change Username",
+    "content": "Users can change their username from the Profile section. Usernames can only be changed once every 30 days."
+  },
+  {
+    "title": "Enable Two Factor Authentication",
+    "content": "Two factor authentication can be enabled from Settings > Security. Users must verify their phone number or authentication app."
+  },
+  {
+    "title": "Recover Locked Account",
+    "content": "If an account is locked due to multiple failed login attempts, users must wait 15 minutes or reset their password."
+  },
+  {
+    "title": "Update Profile Information",
+    "content": "Users can update profile information such as name, bio, and profile picture from the Profile Settings page."
+  },
+  {
+    "title": "Manage Notification Preferences",
+    "content": "Users can control email and push notifications from Settings > Notifications and choose which alerts they want to receive."
+  },
+  {
+    "title": "Subscription Management",
+    "content": "Users can upgrade, downgrade, or cancel their subscription from the Billing section in Account Settings."
+  },
+  {
+    "title": "Contact Customer Support",
+    "content": "Users can contact customer support through the Help Center or by submitting a support ticket from the Support page."
+  }
+]
